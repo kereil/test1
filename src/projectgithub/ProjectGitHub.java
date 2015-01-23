@@ -7,8 +7,9 @@ package projectgithub;
 
 /**
  *
- * @author hd991158
+ * @author keven blais
  */
+
 public class ProjectGitHub {
 
     /**
@@ -16,6 +17,7 @@ public class ProjectGitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("allo premier test");
     }
     
 }
