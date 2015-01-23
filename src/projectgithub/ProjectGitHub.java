@@ -17,7 +17,7 @@ public class ProjectGitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("allo premier test");
+        System.out.println("hello " + args[0] + "!" );
     }
     
 }
